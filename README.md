@@ -31,7 +31,8 @@ java client
 - Client sends the message , and waits for server's response
 - Messages can only be sent sequentially , i.e the Client has to wait for the Server's response once it has sent a message, and vice-versa
 
-## Screenshots
+## Preview
 
 
+<img width="1283" alt="Screenshot 2021-08-10 at 10 57 36 AM" src="https://user-images.githubusercontent.com/65719940/128828801-fbcb7323-a2b0-434c-92b7-6bf716ab2757.png">
 
